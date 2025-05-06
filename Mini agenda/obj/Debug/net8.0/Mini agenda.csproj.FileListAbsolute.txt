@@ -1,0 +1,14 @@
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\bin\Debug\net8.0\Mini agenda.exe
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\bin\Debug\net8.0\Mini agenda.deps.json
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\bin\Debug\net8.0\Mini agenda.runtimeconfig.json
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\bin\Debug\net8.0\Mini agenda.dll
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\bin\Debug\net8.0\Mini agenda.pdb
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\Mini agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\Mini agenda.AssemblyInfoInputs.cache
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\Mini agenda.AssemblyInfo.cs
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\Mini agenda.csproj.CoreCompileInputs.cache
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\Mini agenda.dll
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\refint\Mini agenda.dll
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\Mini agenda.pdb
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\Mini agenda.genruntimeconfig.cache
+C:\Users\Public\Estudiar para el examen final de programacion\Mini agenda diaria\Mini agenda\obj\Debug\net8.0\ref\Mini agenda.dll
